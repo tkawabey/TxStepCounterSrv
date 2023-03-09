@@ -1,2 +1,7 @@
 # TxStepCounterSrv
-リアルタイム歩数計送信アプリ（TkPeerStepCounter）のデータ受信プログラム
+リアルタイム歩数計送信アプリ（**TkPeerStepCounter**）のデータ受信プログラム
+
+歩数計情報を受信したプログラムをKey-Upのキーボード疑似操作を行います。
+
+Google　Mapのストリートビューにフォーカスし、Key-Upのキーボード疑似操作することで、
+![This is an image](https://github.com/tkawabey/TxStepCounterSrv/blob/main/img001.jpg)
